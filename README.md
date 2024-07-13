@@ -1,0 +1,1 @@
+ms-eureka-server: A microservice in charge of managing other backend microservice.
